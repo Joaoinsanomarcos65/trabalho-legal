@@ -7,7 +7,7 @@
 
 /* estiliza o corpo geral da página */
 body {
-    font-family: Arial, sans-serif; /* define a fonte principal do site */
+    font-family: Comic sans MS, sans-serif; /* define a fonte principal do site */
     background-color: #00ACE6; /* define a cor de fundo da página */
     color: #333333; /* define a cor padrão dos textos */
 }
@@ -59,7 +59,7 @@ main {
 
 /* estiliza todos os botões da página */
 button {
-    background-color: #2b6cb0; /* define a cor de fundo do botão */
+    background-color: #00ACE6; /* define a cor de fundo do botão */
     color: white; /* define a cor do texto do botão */
     border: none; /* remove a borda padrão */
     padding: 12px 18px; /* adiciona espaçamento interno no botão */
@@ -71,7 +71,7 @@ button {
 
 /* efeito aplicado quando o mouse passa sobre o botão */
 button:hover {
-    background-color: #1e4e8c; /* escurece a cor do botão ao passar o mouse */
+    background-color: #00ACE6; /* escurece a cor do botão ao passar o mouse */
     transform: scale(1.05); /* aumenta levemente o tamanho do botão */
 }
 
@@ -79,7 +79,7 @@ button:hover {
 #mensagem {
     margin-top: 15px; /* adiciona espaço acima da mensagem */
     font-weight: bold; /* deixa o texto em negrito */
-    color: #1e4e8c; /* define uma cor azul para a mensagem */
+    color: #00ACE6; /* define uma cor azul para a mensagem */
 }
 
 /* estiliza a seção de informações */
