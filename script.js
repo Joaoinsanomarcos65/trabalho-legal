@@ -14,7 +14,7 @@ let card = document.querySelector(".apresentacao");
 botaoMensagem.addEventListener("click", function () {
 
     // quando o botão for clicado, troca o texto do parágrafo pela mensagem desejada
-    mensagem.innerText = "Olá! Seja bem-vindo ao meu mini currículo.";
+    mensagem.innerText = "Mensagem secreta misteriosa";
 });
 
 // cria uma variável para controlar se a cor atual do card foi alterada ou não
@@ -27,7 +27,7 @@ botaoCor.addEventListener("click", function () {
     if (corAtual == 0) {
 
         // se for 0, muda a cor de fundo do card para azul claro
-        card.style.backgroundColor = "#f2ad36";
+        card.style.backgroundColor = "#1faf21";
 
         // altera o valor da variável para 1, indicando que a cor foi trocada
         corAtual = 1;
